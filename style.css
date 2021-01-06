@@ -1,0 +1,35 @@
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+h1{
+    font-size: 80px;
+}
+.name-part{
+    color:#ff0000;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(88, 139, 46);
+    padding:15px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 800;
+
+}
+p{
+    color: rgb(193, 224, 15);
+}
+.partition{
+    width:10%;
+    margin:1%;
+    padding: 1%;
+}
